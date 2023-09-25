@@ -124,5 +124,40 @@ span {
  .rii {
     display: flex;
     gap: 30px;
-    padding-right: 20px;
+    justify-content: space-around;
+    padding-top: 15px;
+ }
+ .rugan {
+    position: relative;
+    padding: 30px 0 0 30px;
+
+ }
+
+ .p {
+    background-color: red;
+    width: 100px;
+    text-align: center;
+    padding: 2px;
+    color: white;
+    position: absolute;
+    bottom: 3px;
+ }  
+
+ .jilt {
+    width: 10%;
+    background: yellow;
+    color: white;
+    text-align: center;
+    padding-left: 20px;
+    padding-top: 10px;
+    margin-bottom: 20px;
+ }
+
+ .in {
+    padding-left: 20px;
+    padding-top: 20px;
+    
+    
+    margin-bottom: 20px;
+
  }
