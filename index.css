@@ -146,7 +146,7 @@ span {
  .jilt {
     width: 10%;
     background: yellow;
-    color: white;
+  
     text-align: center;
     padding-left: 20px;
     padding-top: 10px;
@@ -159,5 +159,7 @@ span {
     
     
     margin-bottom: 20px;
+
+
 
  }
